@@ -7,28 +7,26 @@ namespace MimasakaShooter
 {
     public class GameController : MonoBehaviour
     {
-        [SerializeField] private GamePlayer gamePlayer;
-
-        private bool isLeft, isRight;
-
-        private GameInfo gameInfo;
+        [SerializeField] private GameWorld gameWorld;
         
+        private GameInfo GameInfo { get; set; }
+
         private void Start()
         {
             Application.targetFrameRate = 60;
-            
-            gameInfo = new GameInfo();
-            gamePlayer.Initialize(gameInfo);
+
+            GameInfo = new GameInfo();
+            gameWorld.Initialize(GameInfo);
         }
         
         private void Update()
         {
-            gameInfo.Apply();
+            gameWorld.OnLoop();
         }
 
         private void LateUpdate()
         {
-            gamePlayer.OnLateLoop();
+            gameWorld.OnLateLoop();
         }
     }
 

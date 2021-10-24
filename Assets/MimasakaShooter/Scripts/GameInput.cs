@@ -23,6 +23,11 @@ namespace MimasakaShooter
         {
             return Input.GetKey(KeyCode.S);
         }
-        
+
+        public static bool IsShot()
+        {
+            return Input.GetKey(KeyCode.Space) || Input.GetKey(KeyCode.Space);
+        }
+
     }
 }

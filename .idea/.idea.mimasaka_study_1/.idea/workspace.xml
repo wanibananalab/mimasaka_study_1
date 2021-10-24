@@ -9,19 +9,41 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameStage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GamePlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Editor/SpriteCreatEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GamePositionSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/IGameUnit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameEnemyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameEventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameEnemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameAssetCache.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameAsset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameAttack.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameInput.cs" />
         <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Editor/SpriteCreatEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GamePositionSync.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/IGameUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameAssetCache.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameAsset.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameEnemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameEventManager.cs" />
         <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameAttack.cs" />
         <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameInput.cs" />
         <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GamePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameEnemyInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameStage.cs" />
+        <option value="$PROJECT_DIR$/Assets/MimasakaShooter/Scripts/GameWorld.cs" />
       </list>
     </option>
   </component>
@@ -39,6 +61,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -61,5 +84,15 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="165" key="SettingsEditor" timestamp="1635089298931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="165" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1635089298931" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1632589823614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/0.-1080.1920.1040@0.0.1920.1040" timestamp="1632589823614" />
   </component>
 </project>

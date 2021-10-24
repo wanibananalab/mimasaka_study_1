@@ -12,10 +12,21 @@
             <e p="SpriteCreatEditor.cs" t="Include" />
           </e>
           <e p="Scripts" t="Include">
+            <e p="GameAsset.cs" t="Include" />
+            <e p="GameAssetCache.cs" t="Include" />
+            <e p="GameAttack.cs" t="Include" />
             <e p="GameController.cs" t="Include" />
+            <e p="GameEnemy.cs" t="Include" />
+            <e p="GameEnemyInfo.cs" t="Include" />
+            <e p="GameEventManager.cs" t="Include" />
             <e p="GameInfo.cs" t="Include" />
             <e p="GameInput.cs" t="Include" />
             <e p="GamePlayer.cs" t="Include" />
+            <e p="GamePositionSync.cs" t="Include" />
+            <e p="GameStage.cs" t="Include" />
+            <e p="GameTimer.cs" t="Include" />
+            <e p="GameWorld.cs" t="Include" />
+            <e p="IGameUnit.cs" t="Include" />
           </e>
         </e>
         <e p="stg_basic_pics" t="Include">
